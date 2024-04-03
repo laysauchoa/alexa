@@ -14,5 +14,11 @@ jobs:
     steps:
       - name: Print greeting
         run: |
-          sleep 50
-          echo "Hello from PyCon LT 2024!!!"
+          sleep 20
+          echo "      <3     <3  "
+          echo "    <3  <3 <3  <3"
+          echo "  <3    <3    <3"
+          echo "   <3         <3"
+          echo "     <3     <3"
+          echo "       <3  <3"
+          echo "         <3"
